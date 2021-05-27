@@ -1,0 +1,35 @@
+{
+  "result": [
+    {
+      "promiseId": "1",
+      "promise": "운동해야지 진짜로 나 지금 너무 돼지",
+      "date": {
+        "year": "2021",
+        "month": "5",
+        "day": "6",
+        "time": "AM 07:30"
+      }
+    },
+    {
+      "promiseId": "2",
+      "promise": "운동해야지",
+      "date": {
+        "year": "2021",
+        "month": "5",
+        "day": "3",
+        "time": "AM 07:30"
+      }
+    },
+    {
+      "promiseId": "3",
+      "promise": "운동할까?",
+      "date": {
+        "year": "2021",
+        "month": "5",
+        "day": "6",
+        "time": "AM 07:30"
+      }
+    }
+
+  ]
+}
